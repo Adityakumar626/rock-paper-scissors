@@ -28,5 +28,5 @@ Select your choice by clicking on rock, paper, or scissors, and see if you can b
 3. Start playing by clicking one of the options.
 
 ---
-\
+
 
