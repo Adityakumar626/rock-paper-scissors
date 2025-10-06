@@ -25,7 +25,7 @@ h1 {
 .choice:hover {
     background-color: #000B58;
     cursor: pointer;
-    transition: all 0.1s ease-in;
+    transition: all 0.3s ease;
     transform: scale(1.1);
 }
 
